@@ -54,7 +54,7 @@ return(
         <section>
             <h3 className="h1">Female Products</h3>
             <p className="p2">Produce and supply various Handicraft items all over</p>
-            <p className="p2">the world which were very attractive</p>
+            <p className="p2">The world which were very attractive</p>
            {/*  card section */}
             <div className="container">
                 <div className="row">
@@ -99,7 +99,7 @@ return(
            {/*  card section2 */}
             <h3 className="h1"> Male Products</h3>
             <p className="p2">Produce and supply various Handicraft items all over</p>
-            <p className="p2">the world which were very attractive</p>
+            <p className="p2">The world which were very attractive</p>
             <div className="container mt-5">
                 <div className="row">
                     <div className="col-md-4">

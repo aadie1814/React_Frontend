@@ -2,8 +2,6 @@ import React from "react";
 import'../../node_modules/bootstrap/dist/css/bootstrap.css'
 import'../new.css';
 import {  NavLink } from "react-router-dom";
-
-
 const Header =() =>{
     return(
     <>
@@ -25,7 +23,8 @@ const Header =() =>{
                 </div>
             </div>
         </div>
-    </>)
+    </>
+)
 
 }
 export default Header;

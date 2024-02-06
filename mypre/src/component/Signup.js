@@ -28,7 +28,7 @@ const Signup = () =>{
                            <input type="password" class="form-control mm" placeholder=" ************" id="pass" name="pass"></input><br/>
                            <input type="checkbox"></input>
                            <label className="lable "> <h6 className="c">I agree to the term of user</h6></label><br/><br/>
-                           <button type="submit" class="btn btn-primary mx-auto d-block  ">SignUp</button><br/><br/>
+                           <button type="submit" class="btn btn-primary mx-auto d-block ">SignUp</button><br/><br/>
                         </form>
                     </div>
                 </div>

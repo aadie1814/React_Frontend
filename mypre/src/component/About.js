@@ -69,9 +69,6 @@ return(
                         <p>Onevery order Over $150</p>
                     </div>
                     <div className="col-md-1"></div>
-                    
-                    
-                    
                 </div>
             </div>
         </section>
