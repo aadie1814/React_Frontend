@@ -42,8 +42,10 @@ const Footer =() =>{
                        <NavLink to="/"><CiLinkedin className="icon mt-2"></CiLinkedin></NavLink>
                        <NavLink to="/"><CiTwitter className="icon mt-2"></CiTwitter></NavLink>
                     </div>
+                <h4 className="text-white text-center m-5">Design By <span className="text-warning"> Aditya Joshi</span></h4>
                 </div>
             </div>
+            
         </section>
      </> )
 

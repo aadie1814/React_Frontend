@@ -1,6 +1,6 @@
 import React from "react"
 import'../../node_modules/bootstrap/dist/css/bootstrap.css'
-import pic from '../image/home2.jpg'
+import pic from '../image/homei.jpg'
 import pic1 from '../image/home.webp'
 import'../new.css';
 import { SiFireship } from "react-icons/si";
@@ -63,13 +63,13 @@ return(
                 </div>
             </div>
         </section><br/>
-        <section className="nnn">
-            <div className="container ">
-                <div className="row mt-0">
-                    <div className="col-md-6 mt-6 ml-5 mt-5 mb-4 ">
-                        { <img src={pic} alt='' height="500px" width="100%"></img> }
+        <section>
+            <div className="container-fluid  ">
+                <div className="row p-0 m-0 mt-5">
+                    <div className="col-md-6 m-0 p-0 ">
+                        { <img src={pic} alt='' height="550px" width="100%"></img> }
                     </div>
-                    <div className="col-md-6 mt-5"><br/><br/><br/><br/><br/>
+                    <div className="col-md-6 nnn p-5 m-0 "><br/><br/><br/><br/><br/>
                         <h2 className="i" >#New Arrivals</h2>
                         <p>Vitae Fugiat laboriosam officia  perferendis provident aliquid </p>
                         <p>Voluptatibus dolorem, Fugit ullam sit earum id eaque nisi hic?</p>
@@ -82,7 +82,7 @@ return(
         </section>
         <section className="Discount">
             <div className="container"><br/><br/>
-                <h2 className="text-center ">Subscribe To Get Discount Offers</h2><br/>
+                <h2 className="text-center i ">Subscribe To Get Discount Offers</h2><br/>
                 <from>
                   <input type="email" class="form-control su" placeholder="Enter Your Email" id="email" name="email"></input><br/>
                   <button  class="btn btn-primary text-light text-center btt mb-5 ">SUBSCRIBE</button>

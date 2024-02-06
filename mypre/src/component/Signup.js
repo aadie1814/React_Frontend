@@ -9,12 +9,12 @@ const Signup = () =>{
          <Header/>
          <section className="cone">
             <div className="container ">
-                <div className="row  ">
-                    <div className="col-md-6 mt-5">
+                <div className="row m-0 p-0 ">
+                    <div className="col-md-6 mt-5 m-0 p-0">
                         { <img src={pic} alt='' height="658px" width="100%"></img> } 
                     </div>
-                    <div className="col-md-6 bg-light mt-5 mb-5  ">
-                        <form className="form ">
+                    <div className="col-md-6 bg-light mt-5 mb-5 m-0 p-0  ">
+                        <form className="form frm">
                            <h2 className="mt-5 text-center">SignUp</h2>
                            <label className="lable">FullName</label>
                            <input type="text" class="form-control mm " placeholder="NAME..." id="text" name="text"></input> <br/>

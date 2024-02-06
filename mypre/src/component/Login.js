@@ -13,9 +13,9 @@ const Login = () =>{
         <Header/>
         <section className="cone">
             <div className="container ">
-                <div className="row  ">
-                    <div className="col-md-6 mt-5 mb-5 fc">
-                       <form className="form ">
+                <div className="row  m-0 p-0">
+                    <div className="col-md-6 mt-5 mb-5 m-0 p-0 fc">
+                       <form className="form mr-0">
                            <h2 className="mt-5 login fc ">Login</h2><hr className="loginhr"></hr>
                             <div id="icone" className="from-group">
                                 <AiTwotoneMail className="emaili"></AiTwotoneMail>
@@ -30,8 +30,8 @@ const Login = () =>{
                             <h6 className="dd">Don't have an account? <NavLink to="/SignUp" className="cl">Signup Now</NavLink> </h6>
                         </form>
                     </div>
-                    <div className="col-md-6 bg-light mt-5 mb-5  ">
-                        { <img src={pic} alt='' height="540px" width="100%x"></img> } 
+                    <div className="col-md-6 m-0 p-0  mt-5 mb-5 ">
+                        { <img src={pic} alt='' height="540px" width="100%"></img> } 
                     </div>
                 </div>
             </div>

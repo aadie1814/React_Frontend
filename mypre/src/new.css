@@ -3,6 +3,10 @@ body{
     padding: 0;
     background-color: white; 
 }
+*{
+    margin: 0%;
+    padding: 0%;
+}
 .ull{
     list-style-type: none;
     background-color: black;
@@ -86,6 +90,7 @@ margin-left: 1;
 }
 .nnn{
     background-color: bisque;;
+    
 }
 .icon{
     height: 40px;
@@ -122,6 +127,7 @@ hr{
 }
 .fc{
     background-color: white;
+    margin: 0px;
 }
 .login{
     margin-left: 2%;
@@ -188,13 +194,17 @@ input[type=text]:focus {
     border-bottom: 1px solid black;
     margin-left: 30%;
     width: 40%;
-    height: 85%;
+    height: 50px !important;
+    border-radius: 100px;
+    
 }
 .btt{
     margin-left: 45%;
 }
 .Discount{
-    background-color: dimgray;
+    background-color: rgba(151, 220, 236, 0.441);
+   padding: 100px 0px 100px 0px;
+    
 }
 .cd1{
     width: 400px !important;
@@ -208,7 +218,12 @@ input[type=text]:focus {
     height: 50px;
     width: 50px;
     color: white;
+    margin: 20px;
 }
 
 
-
+.frm{
+   /*  padding-left: 20px;
+    padding-right: 10px; */
+    padding: 0px 20px 0px 20px;
+}
