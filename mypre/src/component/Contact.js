@@ -8,8 +8,8 @@ return(
     <>
     <Header/>
     <section className="cone">
-         <div className="container ">
-            <div className="row  ">
+         <div className="container">
+            <div className="row ">
                 <div className="col-md-6 bg-primary mt-5 mb-5  "><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                     <h2 className="mt-5 text-center text-light"  >Let's Chat</h2>
                     <p className="text-center text-light mt-1">Feel free to send me message in the  contact form</p>
