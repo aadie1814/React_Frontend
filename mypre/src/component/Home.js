@@ -18,7 +18,7 @@ return(
                 <div className="col-md-6 mt-5"><br/><br/><br/><br/><br/>
                     <h2 className="i" >ALL WHAT YOU NEED IS HERE !</h2>
                     <h2 className="i">New Fashion collection</h2>
-                    <h2 className="i">Every Season</h2>
+                    <h2 className="i">Every Season</h2><br/>
                     <button  class="btn btn-primary text-light text-center ">Contact Now</button>
                 </div>
                 <div className="col-md-6 mt-6 ml-5 mt-5 mb-4 ">
@@ -64,7 +64,7 @@ return(
             </div>
         </section><br/>
         <section>
-            <div className="container-fluid  ">
+            <div className="container-fluid ml-0  ">
                 <div className="row p-0 m-0 mt-5">
                     <div className="col-md-6 m-0 p-0 ">
                         { <img src={pic} alt='' height="550px" width="100%"></img> }

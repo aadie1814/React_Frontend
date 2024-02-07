@@ -29,9 +29,9 @@ body{
     color: white;
   
  } 
- a:hover {
+ /* a:hover {
     color:lightskyblue
- } 
+ }  */
  a:active{
     color: cyan;
  }
@@ -89,7 +89,8 @@ margin-left: 1;
     margin-top: 50px;
 }
 .nnn{
-    background-color: bisque;;
+    background-color: bisque;
+
     
 }
 .icon{
